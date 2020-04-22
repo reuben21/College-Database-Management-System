@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>StudentHeader.png</file>
+    <file>icons8-increase-100.png</file>
+    <file>icons8-feedback-100.png</file>
+    <file>icons8-delete-document-100.png</file>
+    <file>icons8-submit-for-approval-96.png</file>
+    <file>icons8-exit-100.png</file>
+    <file>icons8-add-100.png</file>
+    <file>icons8-user-menu-female-100.png</file>
+    <file>icons8-refresh-128.png</file>
+    <file>icons8-department-100.png</file>
+    <file>icons8-course-100.png</file>
+    <file>education.ico</file>
+    <file>icons8-student-male-100.png</file>
+    <file>icons8-teacher-100 (1).png</file>
+    <file>icons8-student-center-100 (1).png</file>
+    <file>ImageWallpaper.jpg</file>
+    <file>icons8-add-administrator-100.png</file>
+    <file>teacherRegister.png</file>
+    <file>icons8-course-80.png</file>
+    <file>icons8-update-200.png</file>
+    <file>icons8-course-assign-100.png</file>
+    <file>icons8-grades-100.png</file>
+    <file>icons8-profile-100.png</file>
+    <file>profile.png</file>
+    <file>splashSreenFinal.png</file>
+    <file>multiple-users-silhouette.png</file>
+    <file>icons8-microsoft-admin-90.png</file>
+    <file>icons8-login-rounded-96.png</file>
+    <file>feedback.png</file>
+    <file>home.png</file>
+    <file>information.png</file>
+    <file>login.png</file>
+    <file>icons8-teacher-100.png</file>
+    <file>register.png</file>
+    <file>submit.png</file>
+  </qresource>
+</RCC>
