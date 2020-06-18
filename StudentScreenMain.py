@@ -7,8 +7,8 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QIcon,QPixmap
 import pymysql
 from datetime import datetime
-import boto3
-from botocore.exceptions import NoCredentialsError
+# import boto3
+# from botocore.exceptions import NoCredentialsError
 from urllib.request import urlopen
 import random
 import smtplib 

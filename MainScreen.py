@@ -6,8 +6,8 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QIcon,QPixmap
 import pymysql
 from datetime import datetime
-import boto3
-from botocore.exceptions import NoCredentialsError
+# import boto3
+# from botocore.exceptions import NoCredentialsError
 from urllib.request import urlopen
 import random
 import smtplib 
@@ -761,7 +761,7 @@ class Ui_Registration_Page(object):
 
         # Create secure connection with server and send email
         context = ssl.create_default_context()
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 25, context=context) as server:
             server.login(sender_email, password)
             server.sendmail(
                 sender_email, receiver_email, message.as_string()
