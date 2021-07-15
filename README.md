@@ -6,10 +6,11 @@
 </ul>
 <h3>Why did you build this project?</h3>
 <ul>
-  <li> The Project was build to help Colleges Manages Their Data </li>
+  <li> The Project was build to help Colleges Manages Their Data with respect to Admin, Teachers or Students </li>
 </ul>
 <h3>What problem does it solve?</h3>
 <ul>
+  <li> To Assign Courses To Teachers and Students </li>
   <li> It Solves The Problem of ease of Signing in Based on Priority </li>
   <li> It Helps Teacher's easily enter Marks in Tables, Students that have taken their Subject </li>
   <li> It visualizes student's marks  </li>
