@@ -1,4 +1,26 @@
 <h1> College Database Management System </h1>
+
+<h3>What was your motivation?</h3>
+<ul>
+  <li> To Learn Python and Use PyQT5 to make desktop Applications </li>
+</ul>
+<h3>Why did you build this project?</h3>
+<ul>
+  <li> The Project was build to help Colleges Manages Their Data </li>
+</ul>
+<h3>What problem does it solve?</h3>
+<ul>
+  <li> It Solves The Problem of ease of Signing in Based on Priority </li>
+  <li> It Helps Teacher's easily enter Marks in Tables, Students that have taken their Subject </li>
+  <li> It visualizes student's marks  </li>
+</ul>
+<h3>What did you learn?</h3>
+<ul>
+  <li> Store and Retrieve Data to and from MySQL Database </li>
+  <li> Use PyQT5 to make the GUI Desktop Application </li>
+  <li> Role Based Access Control </li>
+</ul>
+
 <h2>College Database Management using PyQT5 in Python</h2>
 <h3>
 <ol>
